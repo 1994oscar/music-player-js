@@ -1,3 +1,5 @@
+'use strict'
+
 const musicContainer = document.getElementById('music_container');
 const playBtn = document.getElementById('play');
 const prevBtn = document.getElementById('prev');
